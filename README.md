@@ -2,36 +2,6 @@
 
 Interactive Graphics course at "La Sapienza University of Rome"
 
-## 2021-homework1
-In homework1 1 I obtained the following effects: 
-
-1.	A complex and irregular geometry. Each vertex have associated a normal and a texture coordinate.
-2.	The object rotates via buttons along the three axes around the center of gravity. Again with buttons, the rotation can be reversed, stopped, and started.
-3.	With sliders, the view can be modified.
-4.	A cylindrical neon light with 3 light sources inside of it and emissive properties of the cylinder. The cylinder is approximated by triangles.
-5.	Both per-vertex and per-fragment shading models with a button to switch between them.
-6.	A procedural normal map that gives the appearance of a very rough surface. The bump texture to the geometry of the point 1. A button activates/deactivates the texture.
-
-## 2021-homework2
-In homework1 2 I obtained the following effects: 
-
-1.	A hierarchical model of a (simplified) sheep https://en.wikipedia.org/wiki/Sheep, composed of the following parts;
-a.	body 
-b.	4 legs, each one composed of 2 independent components (upper and lower leg)
-c.	head
-d.	tail
-All components are cubes. The sheep has a white/light grey color.
-
-2.	A surface on which the sheep is positioned that corresponds to a grass field. Attached to it there is a texture to give the appearance of a grass field.
-
-3.	Two textures: A color texture attached to the front face of the head and a bump texture applied to the sides of the body to give the “wool effect”.
-
-4.	A (very simplified) model of a fence positioned on the surface and near the sheep.
-
-5.	A button that starts an animation of the sheep, it start from an initial position where it is in a walking mode, it walks on the surface towards the fence by moving (alternatively back and forth) the legs, then jumps over the fence and lands on the surface on the other side of the fence. 
-
-6.	The user can move the camera before and during the animation.
-
 ## 2021-Project
 
 ### Raccoons Rush
